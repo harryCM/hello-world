@@ -1,2 +1,3 @@
 # hello-world
-The first test app
+The first learning by example created on Github.com
+Last update: 3/14/2016
